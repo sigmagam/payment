@@ -4,7 +4,7 @@ const axios = require('axios');
  * https://aubert.my.id
  * https://clayza.biz.id
  */
-const SERVER_DOMAIN = 'https://clayza.biz.id';
+const SERVER_DOMAIN = 'https://saweria.vercel.app';
 
 async function login(email, password) {
    try {
